@@ -1,0 +1,5 @@
+[[findIndex (método Javascript) - Como Encontrar o Índice do Elemento Desejado]]
+[[reduce (método Javascript) - Simplificando Operações em Arrays]]
+[[repeat (método Javascript) - Repetição de Strings Simplificada]]
+[[sort (método Javascript) - Classificando com Facilidade]]
+[[splice (método Javascript) - Manipulando Arrays com Precisão]]

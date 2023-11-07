@@ -1,0 +1,1 @@
+[[Como separar arquivos .prisma para melhor modelar o banco de dados]]

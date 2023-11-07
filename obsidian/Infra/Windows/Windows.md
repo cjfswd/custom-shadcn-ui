@@ -1,0 +1,7 @@
+[[Comandos do CMD do Windows que você precisa conhecer]]
+[[Como recriar o boot partition do windows]]
+[[Como resolver o problema de caching de memória RAM em standby do windows]]
+[[Ninite uma ferramenta incrível para instalar programas mais rapidamente após uma formatação do Windows]]
+[[Porque ter uma mídia de instalação do Windows salva num pen-drive]]
+[[Softwares utilitários para windows distribuídos gratuitamente pela NirSoft]]
+[[Porque ter uma mídia de instalação do Windows salva num pen-drive]]

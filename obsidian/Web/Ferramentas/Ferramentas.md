@@ -1,0 +1,7 @@
+[explicador de regex](https://www.regexplained.co.uk/)
+[framework para criar uma wiki](https://pt.frwiki.wiki/wiki/Wiki)
+[gerador de gradiente em css](https://www.cssportal.com/css-text-gradient-generator/)
+[testador de APIs](https://reqbin.com/)
+[gerador/visualizador de gráfico de stars do github](https://star-history.com/)
+[conversor de cor hexadecimal para filtro css](https://codepen.io/sosuke/pen/Pjoqqp)
+[canivete de TI](https://it-tools.tech/)

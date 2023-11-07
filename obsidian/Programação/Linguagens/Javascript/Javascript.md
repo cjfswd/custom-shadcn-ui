@@ -1,0 +1,11 @@
+[[Funções]]
+[[Runtime]]
+[[Superset]]
+
+[[Como recarregar uma página no Frontend com Javascript]]
+[[Como baixar um objeto em forma de .json com javascript no Frontend]]
+[[Como converter um tipo Date para 'yyyy-mm-dd']]
+[[O que é a ECMASCRIPT]]
+[[Operadores no Javascript]]
+[[Padrões]]
+[[Shorthands]]

@@ -1,0 +1,1 @@
+[[Personalizando arquivos .markdown com badges]]

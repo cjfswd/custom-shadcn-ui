@@ -1,0 +1,1 @@
+[[Como remover toda informação de versionamento de um diretório .git]]

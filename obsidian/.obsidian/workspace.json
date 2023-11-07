@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "8520a1d5e70b22ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0c2aa92dcca12de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69f2775331d9bd86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programação/Linguagens/Javascript/O que é a ECMASCRIPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29a44195be6f09ac",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_static/ecmascript e javascript,1366x768.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6a657e67b7c293f",
+    "type": "split",
+    "children": [
+      {
+        "id": "78925d2ba38b0203",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7199fef5efb1546",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fde46ce625d38ea7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Site de referência de HTML",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4925e43a5978f5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 574.5
+  },
+  "right": {
+    "id": "9c4af3c2d1094dce",
+    "type": "split",
+    "children": [
+      {
+        "id": "65f11b8a32d3b0ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da7e80115d506c00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programação/Linguagens/Javascript/O que é a ECMASCRIPT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e4e6e09e4b1412a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programação/Linguagens/Javascript/O que é a ECMASCRIPT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fad6df7176e3f73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f94532f92cd2e18f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programação/Linguagens/Javascript/O que é a ECMASCRIPT.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "68867c9ae1bff5d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd90d141e5f28bda",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "map-of-content:Update Map of Content": false
+    }
+  },
+  "active": "69f2775331d9bd86",
+  "lastOpenFiles": [
+    "_static/ecmascript e javascript,1366x768.png",
+    "Programação/Linguagens/Javascript/O que é a ECMASCRIPT.md",
+    "_static/recarregar com javascript,1280x720.png",
+    "Programação/Linguagens/Javascript/Como recarregar uma página no Frontend com Javascript.md",
+    "Programação/Linguagens/Javascript/Como converter um tipo Date para 'yyyy-mm-dd'.md",
+    "_static/javascript date,720x424.png",
+    "Programação/Linguagens/Javascript/Como baixar um objeto em forma de .json com javascript no Frontend.md",
+    "_static/baixar json com javascript,1440x840.png",
+    "Infra/Windows/Softwares utilitários para windows distribuídos gratuitamente pela NirSoft.md",
+    "_static/NirSoft,1200x385.png",
+    "_static/Windows Media,1200x675.png",
+    "Infra/Windows/Porque ter uma mídia de instalação do Windows salva num pen-drive.md",
+    "Infra/Windows/Ninite uma ferramenta incrível para instalar programas mais rapidamente após uma formatação do Windows.md",
+    "_static/ninite,950x543.png",
+    "Programação/Linguagens/Markdown/Personalizando arquivos .markdown com badges.md",
+    "_static/shieldsdotio,700x333.png",
+    "Programação/O melhor site de documentação de software.md",
+    "_static/devdocsdotio,800x418.png",
+    "Programação/O melhor site para estudar Algoritmos.md",
+    "_static/The Algorithms,1635x933.png",
+    "Web/Como usar Fontes .otf no CSS com @font-face.md",
+    "Web/Linguagens/CSS/Como resetar o CSS completamente (remover estilos proprietários do browser).md",
+    "Web/Linguagens/CSS/Site referência de CSS.md",
+    "Web/Linguagens/HTML/Site referência de HTML.md",
+    "Infra/Windows/Como resolver o problema de caching de memória RAM em standby do windows.md",
+    "Infra/Windows/Como recriar o boot partition do windows.md",
+    "_oculto/para completar/'use client' (diretiva Next 13) - Componentes React no lado do cliente.md",
+    "Hacking/O versátil microcontrolador ESP8266 adorado por hacker's.md",
+    "Hacking/Quanto tempo leva para quebrar senhas com força bruta.md",
+    "Infra/Universal Media Server uma alternativa Open Source para distribuir multimídia.md",
+    "Infra/Windows/Comandos do CMD do Windows que você precisa conhecer.md",
+    "Hacking/Como ripar um Blu-ray com MKVToolNix.md",
+    "Banco de dados/Framework/Prisma/Como separar arquivos .prisma para melhor modelar o banco de dados.md",
+    "Ferramentas/GIT/Como remover toda informação de versionamento de um diretório .git.md",
+    "Programação/Linguagens/Javascript/Runtime/Node/Como obter uma lista de todos os arquivos num diretório com Node.md",
+    "_oculto/não postar/canvas.canvas",
+    "Web/Ferramentas",
+    "Programação/Linguagens/Javascript/Superset/Typescript/Library/Typegoose",
+    "_oculto/não postar",
+    "_oculto/para completar",
+    "_oculto",
+    "_static",
+    "Programação/Linguagens/Javascript/Superset/Typescript/Library",
+    "Infra/Sem título",
+    "Infra/Docker",
+    "Infra/Serveless",
+    "Sem título.canvas"
+  ]
+}
